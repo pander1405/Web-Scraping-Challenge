@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup as bs
 from webdriver_manager.chrome import ChromeDriverManager
 from splinter import Browser
 import pandas as pd
+import requests
 
 
 #initiate driver seperately
